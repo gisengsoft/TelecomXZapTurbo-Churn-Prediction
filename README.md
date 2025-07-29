@@ -101,7 +101,6 @@ TelecomXZapTurbo-Churn-Prediction/
 
 ├── requirements.txt
 
-└── .gitignore
 ```
 
 ### 📊 Avaliações dos Modelos
