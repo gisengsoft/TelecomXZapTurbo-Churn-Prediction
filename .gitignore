@@ -1,0 +1,62 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dados sensíveis ou intermediários
+*.csv
+*.tsv
+*.xlsx
+*.xls
+dados/
+!dados/README.md  # caso deseje manter uma explicação na pasta
+
+# Imagens geradas por scripts
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.pdf
+imagens/
+!imagens/README.md  # manter se desejar uma descrição
+
+# Arquivos temporários / cache
+*.tmp
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+.venv/
+env/
+ENV/
+venv/
+*.env
+
+# IDEs / editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de configuração pessoais
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos ZIPs e exportações
+*.zip
+*.tar.gz
+*.rar
+
+# Outros
+*.db
+*.sqlite
