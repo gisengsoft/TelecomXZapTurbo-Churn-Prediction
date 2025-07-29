@@ -105,7 +105,7 @@ TelecomXZapTurbo-Churn-Prediction/
 
 ### 📊 Avaliações dos Modelos
 
-#### 📌 Matriz de Confusão – Random Forest
+📌 **Matriz de Confusão – Random Forest**  
 ![Matriz RF](imagens/matriz_confusao_rf.png)
 
 #### 📌 Matriz de Confusão – Regressão Logística
